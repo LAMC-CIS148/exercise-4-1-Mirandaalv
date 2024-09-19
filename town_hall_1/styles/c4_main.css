@@ -17,12 +17,14 @@ main h1 {
 	font-size: 150%;
 }
 main h2 {
-	 text-indent: 30px;
-	color: rbg(800000);
+	text-indent: 30px;
+	color: rbg(80, 00, 00);
 	font-size: 170%;
 }
 main h3 {
-	font-size: 105%;
+	text-indent: 30px;
+	font-size: 130%;
+	font-style: 
 }
 
 /* the styles for the footer */
