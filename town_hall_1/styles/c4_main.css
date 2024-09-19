@@ -17,6 +17,7 @@ main h1 {
 	font-size: 150%;
 }
 main h2 {
+	 text-indent: 30px;
 	color: rbg(800000);
 	font-size: 170%;
 }
