@@ -4,12 +4,6 @@ body {
     font-size: 100%;
 	float: right;
 }
-<style>
-shadow.{ 
-	text-shadow: 2px 1px #FF0000;
-
-}
-</style>
 /* the styles for the header */
 header img {
 	float: left;
