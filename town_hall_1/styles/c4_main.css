@@ -4,8 +4,11 @@ body {
     font-size: 100%;
 	float: right;
 }
-<stlye>
-shadow. { color: rbg(800000); }
+
+shadow.{ 
+	text-shadow: 2px 1px #FF0000;
+
+}
 
 /* the styles for the header */
 header img {
