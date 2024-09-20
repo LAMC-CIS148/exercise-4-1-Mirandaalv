@@ -4,12 +4,7 @@ body {
     font-size: 100%;
 	float: right;
 }
-<style>
-shadow.{ 
-	text-shadow: 2px 1px #FF0000;
 
-}
-</style>
 /* the styles for the header */
 header img {
 	float: left;
@@ -31,6 +26,7 @@ main h2 {
 main h3 {
 	text-indent: 30px;
 	font-size: 130%;
+	text-shadow: 2px 1px #FF0000;
 	font-style: italic; 
 }
 
