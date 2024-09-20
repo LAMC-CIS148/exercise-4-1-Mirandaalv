@@ -4,10 +4,13 @@ body {
     font-size: 100%;
 	float: right;
 }
+<stlye>
+.shadow { color: rbg(800000); }
 
 /* the styles for the header */
 header img {
 	float: left;
+	
 }
 
 /* the styles for the main content */
