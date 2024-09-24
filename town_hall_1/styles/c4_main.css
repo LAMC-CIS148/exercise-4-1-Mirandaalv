@@ -5,6 +5,9 @@ body {
 	float: right;
 }
 /* the styles for the header */
+:root {
+  #800000: ##4d0080;
+}
 header img {
 	float: left;
 }
