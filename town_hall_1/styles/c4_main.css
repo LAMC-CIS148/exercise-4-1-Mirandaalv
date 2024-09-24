@@ -19,6 +19,7 @@ header h3 {
 header h2 {
 	color: rgb(150, 00, 00);
 	font-size: 170%;
+	text-indent: 30px;
 }
 /* the styles for the main content */
 main {
