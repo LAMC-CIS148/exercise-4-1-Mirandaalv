@@ -7,7 +7,11 @@ body {
 /* the styles for the header */
 header img {
 	float: left;
-	
+}
+header h3 {
+	text-indent: 30px;
+	font-size: 130%;
+	font-style: italic; 
 }
 
 /* the styles for the main content */
@@ -22,7 +26,7 @@ main h2 {
 	color: rgb(150, 00, 00);
 	font-size: 170%;
 }
-header h3 {
+main h3 {
 	
 	font-size: 130%;
 	font-style: italic; 
