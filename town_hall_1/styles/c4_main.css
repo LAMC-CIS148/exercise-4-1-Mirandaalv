@@ -18,12 +18,12 @@ main h1 {
 	font-size: 150%;
 }
 main h2 {
-	text-indent: 15px;
+	
 	color: rgb(150, 00, 00);
 	font-size: 170%;
 }
 main h3 {
-	text-indent: 15px;
+	
 	font-size: 130%;
 	font-style: italic; 
 }
