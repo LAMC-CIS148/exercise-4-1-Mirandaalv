@@ -13,7 +13,10 @@ header h3 {
 	font-size: 130%;
 	font-style: italic; 
 }
-
+header h2 {
+	color: rgb(150, 00, 00);
+	font-size: 170%;
+}
 /* the styles for the main content */
 main {
 	clear: left;
@@ -23,13 +26,11 @@ main h1 {
 }
 main h2 {
 	
-	color: rgb(150, 00, 00);
-	font-size: 170%;
+
 }
 main h3 {
 	
-	font-size: 130%;
-	font-style: italic; 
+ 
 }
 
 /* the styles for the footer */
