@@ -11,7 +11,10 @@ header img {
 header h3 {
 	text-indent: 30px;
 	font-size: 130%;
-	font-style: italic; 
+	font-style: italic;
+	em:shadow. { 
+  text-shadow: 3px 2px 2px ;
+}
 }
 header h2 {
 	color: rgb(150, 00, 00);
