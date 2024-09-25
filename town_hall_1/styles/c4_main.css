@@ -23,7 +23,7 @@ header h3 {
 }
 }
 header h2 {
-	color: rgb(#800000);
+	color: var(--global-color-1);
 	font-size: 170%;
 	text-indent: 30px;
 }
@@ -35,7 +35,7 @@ main h1 {
 	font-size: 150%;
 }
 main h2 {
-	color: rgb(#800000);
+	color: var(--global-color-1);
 	font-size: 170%;
 }
 main h3 {
