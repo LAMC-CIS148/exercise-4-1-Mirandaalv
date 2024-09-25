@@ -6,7 +6,10 @@ body {
 }
 /* the styles for the header */
 :root {
-  #800000: ##4d0080;
+  --global-color-1:#4d0080;
+}
+.my-element{
+	color:var(--global-color-1);
 }
 header img {
 	float: left;
