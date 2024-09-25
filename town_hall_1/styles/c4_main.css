@@ -6,7 +6,7 @@ body {
 }
 /* the styles for the header */
 :root {
-  --global-color-1:#800000;
+  --global-color-1: #800000;
 }
 header img {
 	float: left;
