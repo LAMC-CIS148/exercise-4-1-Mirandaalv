@@ -15,8 +15,8 @@ header h3 {
 	text-indent: 30px;
 	font-size: 130%;
 	font-style: italic;
-	shadow.{ 
-	 text-shadow: color: var(--global-color-1);
+	.shadow { 
+	 text-shadow: 2px 2px 4px #800000;
 }
 }
 header h2 {
