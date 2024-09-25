@@ -19,7 +19,7 @@ header h3 {
 	font-size: 130%;
 	font-style: italic;
 	shadow.{ 
-	 text-shadow: rgb(#800000);
+	 text-shadow: color: var(--global-color-1);
 }
 }
 header h2 {
